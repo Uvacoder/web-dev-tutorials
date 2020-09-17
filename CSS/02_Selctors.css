@@ -20,7 +20,7 @@
 
     /* The universal selector (*) selects all HTML elements on the page. */
     * {
-        /* color: red; */
+        color: red;
     }
 
     /* Grouping Selector */
