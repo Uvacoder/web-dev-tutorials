@@ -11,16 +11,19 @@ text-decoration: none;
 background-color: black;
 color: black;
 }
-/**/
+
+/* mouse over link */
 a:hover{
 color: blue;
 background-color: rgb(240, 112, 8);
 }
 
+/* mouse over link */
 a:visited{
 background-color: brown;
 }
 
+/* selected link */
 a:active{
 background-color: yellowgreen;
 }
@@ -34,6 +37,7 @@ cursor: pointer;
 font-size: 15px;
 border-radius: 6px;
 }
+
 .btn:hover{
 color: teal;
 background-color: tomato;
