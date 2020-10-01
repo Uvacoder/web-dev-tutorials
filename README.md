@@ -1,6 +1,9 @@
 # Web-Development-Tutorials
-Web Development Tutorials For Beginners
+This Repository contains everything you should know to become an awesome web developer including some great projects.
 
-## HTML
-## CSS
-## JAVASCRIPT
+## It will contain both front-end and back-end web Development.
+
+*Front-End will contain :-
+1. HTMl
+2. CSS
+3. JAVASCRIPT
