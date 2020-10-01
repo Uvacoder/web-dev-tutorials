@@ -14,3 +14,8 @@ This Repository contains everything you should know to become an awesome web dev
 
 ### * HTML
 => Topics to be covered in HTML5 are:-
+1. [Different types of tags](https://youtu.be/EZCc_4abdcE)
+2.
+3.
+4.
+5.
