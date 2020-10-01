@@ -12,7 +12,7 @@ This Repository contains everything you should know to become an awesome web dev
 1. NodeJs
 2. MongoDb
 
-### * HTML
+## HTML
 * Topics covered in HTML5 are:-
 1. [What are tags and Meta tags](https://youtu.be/EZCc_4abdcE)
 2. [Heading and Paragraph](https://www.youtube.com/watch?v=ulv_q6-b7uI&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=5)
@@ -24,7 +24,7 @@ This Repository contains everything you should know to become an awesome web dev
 8. [HTML Entities](https://www.youtube.com/watch?v=gw1efv5WF_Q&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=11)
 9. [Semantic Tags](https://www.youtube.com/watch?v=FKfsmV6otEM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=12)
 
-### * CSS
+## CSS
 * Topics covered in CSS3 are:-
 1. [Types of CSS](https://www.youtube.com/watch?v=ArUL-He_AN0&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=14)
 2. [Selectors in CSS](https://www.youtube.com/watch?v=oPPym7UaSIo&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=15)
