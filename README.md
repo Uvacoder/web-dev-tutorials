@@ -7,3 +7,10 @@ This Repository contains everything you should know to become an awesome web dev
 1. HTML
 2. CSS
 3. JAVASCRIPT
+
+* Back-End will contain:-
+1. NodeJs
+2. MongoDb
+
+### * HTML
+=> Topics to be covered in HTML5 are:-
