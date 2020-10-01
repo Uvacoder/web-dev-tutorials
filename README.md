@@ -26,8 +26,8 @@ This Repository contains everything you should know to become an awesome web dev
 
 ### * CSS
 => Topics covered in CSS3 are:-
-1. [Types of CSS]()
-2. [Selectors in CSS]()
+1. [Types of CSS](https://www.youtube.com/watch?v=ArUL-He_AN0&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=14)
+2. [Selectors in CSS](https://www.youtube.com/watch?v=oPPym7UaSIo&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=15)
 3. [Chrome Developers tools]()
 4. [Fonts]()
 5. [Colors]()
