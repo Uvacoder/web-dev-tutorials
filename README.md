@@ -51,3 +51,7 @@ This Repository contains everything you should know to become an awesome web dev
 23. [Creating Transitions](https://www.youtube.com/watch?v=k4Dr0PJKidI&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=37)
 24. [Transform Property](https://www.youtube.com/watch?v=K0Gz7CKNJzY&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=38)
 25. [CSS Grids](https://www.youtube.com/watch?v=MPl9bevckUE&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=40)
+
+## Projects
+1. Gym Website
+2. On;line Meal Delivery Website
