@@ -12,8 +12,12 @@ This Repository contains everything you should know to become an awesome web dev
 1. NodeJs
 2. MongoDb
 
+
 ### * HTML
 Hypertext Markup Language, a standardized system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide Web pages.
+
+
+## HTML
 
 * Topics covered in HTML5 are:-
 1. [What are tags and Meta tags](https://youtu.be/EZCc_4abdcE)
@@ -26,6 +30,7 @@ Hypertext Markup Language, a standardized system for tagging text files to achie
 8. [HTML Entities](https://www.youtube.com/watch?v=gw1efv5WF_Q&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=11)
 9. [Semantic Tags](https://www.youtube.com/watch?v=FKfsmV6otEM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=12)
 
+
 ### * CSS
 * CSS stands for Cascading Style Sheets
 * CSS describes how HTML elements are to be displayed on screen, paper, or in other media
@@ -33,6 +38,10 @@ Hypertext Markup Language, a standardized system for tagging text files to achie
 * External stylesheets are stored in CSS files
 
 ## Topics covered in CSS3 are:-
+
+## CSS
+* Topics covered in CSS3 are:-
+
 1. [Types of CSS](https://www.youtube.com/watch?v=ArUL-He_AN0&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=14)
 2. [Selectors in CSS](https://www.youtube.com/watch?v=oPPym7UaSIo&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=15)
 3. [Chrome Developers tools](https://www.youtube.com/watch?v=buxedopZbKM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=16)
@@ -58,3 +67,7 @@ Hypertext Markup Language, a standardized system for tagging text files to achie
 23. [Creating Transitions](https://www.youtube.com/watch?v=k4Dr0PJKidI&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=37)
 24. [Transform Property](https://www.youtube.com/watch?v=K0Gz7CKNJzY&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=38)
 25. [CSS Grids](https://www.youtube.com/watch?v=MPl9bevckUE&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=40)
+
+## Projects
+1. Gym Website
+2. On;line Meal Delivery Website
