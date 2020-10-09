@@ -32,7 +32,7 @@ Hypertext Markup Language, a standardized system for tagging text files to achie
 * CSS saves a lot of work. It can control the layout of multiple web pages all at once
 * External stylesheets are stored in CSS files
 
-* Topics covered in CSS3 are:-
+## Topics covered in CSS3 are:-
 1. [Types of CSS](https://www.youtube.com/watch?v=ArUL-He_AN0&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=14)
 2. [Selectors in CSS](https://www.youtube.com/watch?v=oPPym7UaSIo&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=15)
 3. [Chrome Developers tools](https://www.youtube.com/watch?v=buxedopZbKM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=16)
