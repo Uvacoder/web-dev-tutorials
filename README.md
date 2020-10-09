@@ -13,6 +13,8 @@ This Repository contains everything you should know to become an awesome web dev
 2. MongoDb
 
 ### * HTML
+Hypertext Markup Language, a standardized system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide Web pages.
+
 * Topics covered in HTML5 are:-
 1. [What are tags and Meta tags](https://youtu.be/EZCc_4abdcE)
 2. [Heading and Paragraph](https://www.youtube.com/watch?v=ulv_q6-b7uI&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=5)
@@ -25,6 +27,11 @@ This Repository contains everything you should know to become an awesome web dev
 9. [Semantic Tags](https://www.youtube.com/watch?v=FKfsmV6otEM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=12)
 
 ### * CSS
+* CSS stands for Cascading Style Sheets
+* CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+* CSS saves a lot of work. It can control the layout of multiple web pages all at once
+* External stylesheets are stored in CSS files
+
 * Topics covered in CSS3 are:-
 1. [Types of CSS](https://www.youtube.com/watch?v=ArUL-He_AN0&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=14)
 2. [Selectors in CSS](https://www.youtube.com/watch?v=oPPym7UaSIo&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=15)
