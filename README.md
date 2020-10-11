@@ -10,9 +10,10 @@ This Repository contains everything you should know to become an awesome web dev
 6. [Projects](#Projects)
 
 <h2 align="center">HTML5</h2>
+
 Hypertext Markup Language, a standardized system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide Web pages.
 
-* **Topics covered in HTML5 are :**
+**Topics covered in HTML5 are :**
 1. [What are tags and Meta tags](https://youtu.be/EZCc_4abdcE)
 2. [Heading and Paragraph](https://www.youtube.com/watch?v=ulv_q6-b7uI&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=5)
 3. [Img and Anchor Tags](https://www.youtube.com/watch?v=z6H22xGAZEA&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=6)
@@ -24,6 +25,7 @@ Hypertext Markup Language, a standardized system for tagging text files to achie
 9. [Semantic Tags](https://www.youtube.com/watch?v=FKfsmV6otEM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=12)
 
 <h2 align="center">CSS3</h2>
+
 * CSS stands for Cascading Style Sheets
 * CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 * CSS saves a lot of work. It can control the layout of multiple web pages all at once
